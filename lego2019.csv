@@ -1,251 +1,850 @@
 Set,Price_Euro,Pieces,Minifigs
-Corner Garage,,2569,
-Ford Mustang,,1471,
-NASA Apollo 11 Lunar Lander,,1087,
-Gingerbread House,,1477,
-Harley-Davidson Fat Boy,,1023,
-Woody & RC,,69,1.0
-Duke Caboom's Stunt Show,,120,
-Buzz and Bo Peep's Playground Adventure,,139,
-RV Vacation,,178,
-Buzz & Woody's Carnival Mania!,,230,
-Carnival Thrill Coaster,,98,2.0
-My First Tow Truck,,11,
-My First Balancing Animals,,15,
-My First Fun Puzzle,,15,
-My First Car Creations,,34,
-Creative Fun,,120,1.0
-Mickey's Vacation House,,57,
-Spider-Man vs. Electro,,29,
-Toy Story Train,,21,
-Emmet and Lucy's Visitors from the DUPLO Planet,,53,
-My First Minnie Build,,10,
-My First Mickey Build,,9,
-Frozen Ice Castle,,59,
-Police Bike,,8,
-Fire Truck,,21,
-Police Station,,38,
-Fire Station,,76,2.0
-Baby Animals,,9,
-Tropical Island,,73,
-World Animals,,121,
-Plane,,12,
-Submarine Adventure,,24,2.0
-Bricks and Ideas,,123,
-Basic Brick Set ,,300,
-Bricks and Eyes ,,451,
-Windows of Creativity,,450,
-Creative Fun,,900,
-Star Wars: Build Your Own Adventure Galactic Missions parts,,66,1.0
-The Book of Bedtime Builds parts,,68,
-Harry Potter: Build Your Own Adventure parts,,101,1.0
-Christmas Ideas parts,,41,
-Wooden Minifigure parts,,29,
-San Francisco,,565,
-Paris,,649,
-Trafalgar Square,,1197,
-Empire State Building,,1767,
-Burj Khalifa,,333,
-Minecraft Steve BigFig with Parrot,,159,
-Minecraft Alex BigFig with Chicken,,160,
-Minecraft Skeleton BigFig with Magma Cube,,142,
-The End Battle,,222.0,
-The Pirate Ship Adventure,,386.0,
-The Wool Farm,,260.0,1.0
-The Blaze Bridge,,372.0,
-The Creeper Mine,,834.0,
-The Flintstones,,748.0,
-Steamboat Willie,,751.0,
-Tree House,,3036.0,
-Central Perk,,1070.0,
-Dinosaur Fossils,,910.0,
-My First Duck,,6.0,
+Corner Garage,,,6.0
+Ford Mustang,,,
+NASA Apollo 11 Lunar Lander,,,2.0
+Gingerbread House,,,2.0
+Harley-Davidson Fat Boy,,,
+Woody & RC,,,1.0
+Duke Caboom's Stunt Show,,,2.0
+Buzz and Bo Peep's Playground Adventure,,,3.0
+RV Vacation,,,3.0
+Buzz & Woody's Carnival Mania!,,,5.0
+Carnival Thrill Coaster,,,2.0
+My First Tow Truck,,,
+My First Balancing Animals,,,
+My First Fun Puzzle,,,
+My First Car Creations,,,
+Creative Fun,,,1.0
+Mickey's Vacation House,,,3.0
+Spider-Man vs. Electro,,,2.0
+Toy Story Train,,,2.0
+Emmet and Lucy's Visitors from the DUPLO Planet,,,2.0
+My First Minnie Build,,,
+My First Mickey Build,,,
+Frozen Ice Castle,,,3.0
+Police Bike,,,1.0
+Fire Truck,,,2.0
+Police Station,,,3.0
+Fire Station,,,2.0
+Baby Animals,,,
+Tropical Island,,,3.0
+World Animals,,,6.0
+Plane,,,1.0
+Submarine Adventure,,,2.0
+Bricks and Ideas,,,
+Basic Brick Set ,,,
+Bricks and Eyes ,,,
+Windows of Creativity,,,
+Creative Fun,,,
+Star Wars: Build Your Own Adventure Galactic Missions parts,,,1.0
+The Book of Bedtime Builds parts,,,
+Harry Potter: Build Your Own Adventure parts,,,1.0
+Christmas Ideas parts,,,
+Wooden Minifigure parts,,,
+San Francisco,,,
+Paris,,,
+Trafalgar Square,,,
+Empire State Building,,,
+Burj Khalifa,,,
+Minecraft Steve BigFig with Parrot,,,
+Minecraft Alex BigFig with Chicken,,,
+Minecraft Skeleton BigFig with Magma Cube,,,
+The End Battle,,,2.0
+The Pirate Ship Adventure,,,3.0
+The Wool Farm,,,1.0
+The Blaze Bridge,,,4.0
+The Creeper Mine,,,4.0
+The Flintstones,,,4.0
+Steamboat Willie,,,2.0
+Tree House,,,4.0
+Central Perk,,,7.0
+Dinosaur Fossils,,,2.0
+My First Duck,,,
 Town Rescue - {Random Bag},,,
 Town Rescue - Bird,,,
 Town Rescue - Fireman,,,
 Town Rescue - Cat,,,
 Town Rescue - Policewoman,,,
 Town Rescue - Dog,,,
-Emmet's 'Piece' Offering,,44.0,1.0
-Fire ATV,,39.0,1.0
-Sky Police Jetpack,,33.0,
-Race Boat,,34.0,
-Popcorn Cart,,43.0,
-Space Satellite,,36.0,
-Naboo Starfighter,,48.0,
-Snowspeeder,,49.0,
-Minecraft Steve and Creeper Set,,36,2.0
-Tulips,,90,
-Emma's Bumper Cars,,66,
-Mia's Water Fun,,28,
-Spider-Man's Mini Spider Crawler,,73,1.0
-Iron Man and Dum-E,,38,
-Rex's Plantimal Ambush,,32,
-Podracer,,58,
-Lucy vs. Alien Invader,,44,1.0
-Mini Master-Building MetalBeard,,42,
-Mini Master-Building Emmet,,49,1.0
-Sam-X,,56,
-Ninja Workout,,31,
-Fire Flight,,54,1.0
-Fish Free Builds - Make It Yours,,39,
-Elsa's Winter Throne,,42,1.0
-Pelican,,62,
-Race Car,,68,
-Santa,,67,
-Star-Stuck Emmet,,41,
-SHAZAM!,,5,
-Obi-Wan Kenobi - Collectable Minifigure,,12,
-Futuristic Flyer,,157,
-Dune Buggy,,147,
-Deep Sea Creatures,,230,
-Sunset Track Racer,,221,
-Underwater Robot,,207,
-Shuttle Transporter,,341,
-Helicopter Adventure,,114,
-Riverside Houseboat,,396,
-Race Plane,,333,
-Fairground Carousel,,595,
-Twin-Rotor Helicopter,,569,
-Townhouse Pet Shop & Café,,969,
-Outback Cabin,,305,
-Year of the Pig,,152,
-MSC Cruises,,181,
-Jet Fighter,,23,
-Caterpillar,,48,
-Viking Ship,,54,
-Ladybird,,27,
-Crane,,64,
-Frog,,39,
-Ice Cream Truck,,48,
-Racing Car,,50,
-Eagle,,56,
-UFO,,36,
-Wolf,,47,
-Penguin,,47,
-Battle of Hoth - 20th Anniversary Edition,,195,
-Avengers Tower,,211,
-Space Rocket Ride,,154,
-Newbury Juice Bar,,127,
-Microscale Gingerbread House,,499,
-Christmas Tree,,392,
-Sea Accessories,,24,
-NINJAGO Minifigure Set,,59,
-Spider-Man and the Museum Break-In,,49,
-Summer Celebration Minifigure Pack,,45,
-Mars Exploration Minifigure Pack,,44,
-LEGOLAND® Park,,1336,
-LEGOLAND® Driving School Cars,,209,
-Birthday Clown,,150,
-Valentine's Puppy,,147,
-Easter Chick,,120,
-Halloween Ghost,,136,
-Thanksgiving Scarecrow,,177,
-"Reindeer, Elf and Elfie",,281,
-Dragon Dance Guy,,170,
-LEGO House Exclusive Minifigure 2019,,7,
-LEGO Store Picture Frame,,170,
-Name Sign,,91,
-Olaf's Traveling Sleigh,,97,1.0
-Battle of Endor,,197,
-LEGO House Dinosaurs,,864,
-Lady Liberty,,153,
-Xmas Accessories,,32,
-Rebuild the World minifigure,,6,
-1989 Batmobile - Limited Edition,,366,
-Reindeer,,77,
-Plants from Plants,,29,
-Jasmine's Petite Tower,,49,
-Cinderella's Carriage Ride,,91,1.0
-Ariel's Castle,,115,
-Aladdin's and Jasmine's Palace Adventures,,193,
-"Ariel, Aurora, and Tiana's Royal Celebration",,282,
-Rapunzel's Small Tower,,44,
-Enchanted Treehouse,,302,
-Anna's Canoe Expedition,,108,2.0
-Elsa and the Reindeer Carriage,,116,1.0
-Arendelle Castle Village,,521,
-Elsa's Jewellery Box Creation,,300,1.0
-Olaf,,122,
-Underwater Loop,,389,
-Andrea's Heart Box,,84,
-Emma's Heart Box,,85,
-Stephanie's Heart Box,,85,
-Olivia's Heart Box,,85,
-Mia's Heart Box,,83,
-Heart Box Friendship Pack,,199,
-Emma's Mobile Veterinary Clinic ,,50,
-Mia's Foal Stable ,,118,
-Heartlake City Supermarket,,140,2.0
-Mia's Forest Adventure,,134,
-Stephanie's Buggy & Trailer ,,166,
-Emma's Art Studio,,235,
-Olivia's Cupcake Cafe,,335,
-Stephanie's Horse Jumping,,337,
-Andrea's Talent Show,,492,
-Mia's House,,715,
-Mia's Horse Trailer,,216,
-Stephanie's Gymnastics Show,,241,
-Funny Octopus Ride,,324,
-Andrea's Pool Party,,468,
-Heartlake City Amusement Pier,,1251,
-Turtles Rescue Mission,,225,
-Dolphins Rescue Mission,,363,
-Heartlake City Restaurant,,624,
-Lighthouse Rescue Centre,,602,
-Rescue Mission Boat,,908,
-LEGO Friends Advent Calendar,,330,
-Olivia's Hamster Playground,,81,
-Andrea's Summer Heart Box,,83,
-Emma's Summer Heart Box,,86,
-Stephanie's Summer Heart Box,,95,1.0
-Olivia's Summer Heart Box,,93,
-Mia's Summer Heart Box,,85,
-Emmet,,113,
-Wyldstyle,,134,
-Benny,,103,
-Sweet Mayhem,,137,
-Cherry Picker,,155,
-Power Boat,,174,
-Getaway Truck,,128,
-Police Pursuit,,120,
-Rescue Helicopter,,325,
-Chevrolet Corvette ZR1,,579,
-Tracked Loader,,827,
-Remote-Controlled Stunt Racer,,324,
-Porsche 911 RSR,,1580,
-Compact Crawler Crane,,920,
-Car Transporter,,2493,
-4x4 X-Treme Off-Roader,,958,
-Liebherr R 9800,,4108,
-Land Rover Defender,,2573,
-Elsa's Ice Palace,,701,
-City Shaper Challenge Kit,,2238,
-BOOMTOWN BUILD Inspire Set,,739,
-BOOMTOWN BUILD Discovery Set,,78,4.0
-Ski Resort,,806,
-Jet Patrol,,54,
-Sky Police Drone Chase,,192,
-Parachute Arrest,,218,
-Diamond Heist,,400,
-Air Base,,529,
-Barbecue Burn Out,,64,
-Dock Side Fire,,97,
-Burger Bar Fire Rescue,,327,
-Fire Station,,509,
-Downtown Fire Brigade,,943,
-Fire Plane,,363,
-Desert Rally Racer,,75,
-Construction Loader,,88,
-Garbage Truck,,90,
-Diving Yacht,,148,
-Snow Groomer,,197,
-Harvester Transport,,358,
-Satellite Service Mission,,84,1.0
-Rover Testing Drive,,202,2.0
-Mars Research Shuttle,,273,
-Lunar Space Station,,412,
-Deep Space Rocket and Launch Control,,837,
-Rocket Assembly & Transport,,1055,
-People Pack - Space Research and Development,,209,
-Fire Chief Response Truck,,201,2.0
+Emmet's 'Piece' Offering,,,1.0
+Fire ATV,,,1.0
+Sky Police Jetpack,,,2.0
+Race Boat,,,1.0
+Popcorn Cart,,,1.0
+Space Satellite,,,1.0
+Naboo Starfighter,,,
+Snowspeeder,,,
+Minecraft Steve and Creeper Set,,,2.0
+Tulips,,,
+Emma's Bumper Cars,,,1.0
+Mia's Water Fun,,,1.0
+Spider-Man's Mini Spider Crawler,,,1.0
+Iron Man and Dum-E,,,1.0
+Rex's Plantimal Ambush,,,1.0
+Podracer,,60.0,
+Lucy vs. Alien Invader,,,1.0
+Mini Master-Building MetalBeard,,,1.0
+Mini Master-Building Emmet,,,1.0
+Sam-X,,,
+Ninja Workout,,,1.0
+Fire Flight,,,1.0
+Fish Free Builds - Make It Yours,,,
+Elsa's Winter Throne,,,1.0
+Pelican,,,
+Race Car,,,
+Santa,,,
+Star-Stuck Emmet,,,1.0
+SHAZAM!,,,1.0
+Obi-Wan Kenobi - Collectable Minifigure,,,1.0
+Futuristic Flyer,,,
+Dune Buggy,,,
+Deep Sea Creatures,,,
+Sunset Track Racer,,,
+Underwater Robot,,,
+Shuttle Transporter,,,
+Helicopter Adventure,,,
+Riverside Houseboat,,,2.0
+Race Plane,,,1.0
+Fairground Carousel,,,3.0
+Twin-Rotor Helicopter,,,1.0
+Townhouse Pet Shop & Café,,,3.0
+Outback Cabin,,,2.0
+Year of the Pig,,,
+MSC Cruises,,,
+Jet Fighter,,,
+Caterpillar,,,
+Viking Ship,,,
+Ladybird,,,
+Crane,,,
+Frog,,,
+Ice Cream Truck,,,
+Racing Car,,,
+Eagle,,,
+UFO,,,
+Wolf,,,
+Penguin,,,
+Battle of Hoth - 20th Anniversary Edition,,,
+Avengers Tower,,,1.0
+Space Rocket Ride,,,1.0
+Newbury Juice Bar,,,2.0
+Microscale Gingerbread House,,,
+Christmas Tree,,,
+Sea Accessories,,,
+NINJAGO Minifigure Set,,,4.0
+Spider-Man and the Museum Break-In,,,3.0
+Summer Celebration Minifigure Pack,,,4.0
+Mars Exploration Minifigure Pack,,,4.0
+LEGOLAND® Park,,,11.0
+LEGOLAND® Driving School Cars,,,4.0
+Birthday Clown,,,
+Valentine's Puppy,,,
+Easter Chick,,,
+Halloween Ghost,,,
+Thanksgiving Scarecrow,,,
+"Reindeer, Elf and Elfie",,,
+Dragon Dance Guy,,,
+LEGO House Exclusive Minifigure 2019,,,1.0
+LEGO Store Picture Frame,,,1.0
+Name Sign,,,
+Olaf's Traveling Sleigh,,,1.0
+Battle of Endor,,,
+LEGO House Dinosaurs,,,
+Lady Liberty,,,
+Xmas Accessories,,,1.0
+Rebuild the World minifigure,,,
+1989 Batmobile - Limited Edition,,,
+Reindeer,,,
+Plants from Plants,,,
+Jasmine's Petite Tower,,,1.0
+Cinderella's Carriage Ride,,,1.0
+Ariel's Castle,,,1.0
+Aladdin's and Jasmine's Palace Adventures,,,2.0
+"Ariel, Aurora, and Tiana's Royal Celebration",,,3.0
+Rapunzel's Small Tower,,,1.0
+Enchanted Treehouse,,,3.0
+Anna's Canoe Expedition,,,2.0
+Elsa and the Reindeer Carriage,,,1.0
+Arendelle Castle Village,,,3.0
+Elsa's Jewellery Box Creation,,,1.0
+Olaf,,,
+Underwater Loop,,,2.0
+Andrea's Heart Box,,,1.0
+Emma's Heart Box,,,1.0
+Stephanie's Heart Box,,,1.0
+Olivia's Heart Box,,,2.0
+Mia's Heart Box,,,1.0
+Heart Box Friendship Pack,,,2.0
+Emma's Mobile Veterinary Clinic ,,,1.0
+Mia's Foal Stable ,,,1.0
+Heartlake City Supermarket,,,2.0
+Mia's Forest Adventure,,,1.0
+Stephanie's Buggy & Trailer ,,,1.0
+Emma's Art Studio,,,2.0
+Olivia's Cupcake Cafe,,,2.0
+Stephanie's Horse Jumping,,,2.0
+Andrea's Talent Show,,,2.0
+Mia's House,,,3.0
+Mia's Horse Trailer,,,2.0
+Stephanie's Gymnastics Show,,,2.0
+Funny Octopus Ride,,,2.0
+Andrea's Pool Party,,,2.0
+Heartlake City Amusement Pier,,,7.0
+Turtles Rescue Mission,,,2.0
+Dolphins Rescue Mission,,,2.0
+Heartlake City Restaurant,,,3.0
+Lighthouse Rescue Centre,,,2.0
+Rescue Mission Boat,,,4.0
+LEGO Friends Advent Calendar,,,3.0
+Olivia's Hamster Playground,,,1.0
+Andrea's Summer Heart Box,,,1.0
+Emma's Summer Heart Box,,,1.0
+Stephanie's Summer Heart Box,,,1.0
+Olivia's Summer Heart Box,,,2.0
+Mia's Summer Heart Box,,,1.0
+Emmet,,,
+Wyldstyle,,,
+Benny,,,
+Sweet Mayhem,,,
+Cherry Picker,,,
+Power Boat,,,
+Getaway Truck,,,
+Police Pursuit,,,
+Rescue Helicopter,,,
+Chevrolet Corvette ZR1,,,
+Tracked Loader,,,
+Remote-Controlled Stunt Racer,,,
+Porsche 911 RSR,,,
+Compact Crawler Crane,,,
+Car Transporter,,,
+4x4 X-Treme Off-Roader,,,
+Liebherr R 9800,,,
+Land Rover Defender,,,
+Elsa's Ice Palace,,,7.0
+City Shaper Challenge Kit,,,1.0
+BOOMTOWN BUILD Inspire Set,,,
+BOOMTOWN BUILD Discovery Set,,,4.0
+Ski Resort,,,11.0
+Jet Patrol,,,2.0
+Sky Police Drone Chase,,,3.0
+Parachute Arrest,,,4.0
+Diamond Heist,,,4.0
+Air Base,,,6.0
+Barbecue Burn Out,,,2.0
+Dock Side Fire,,,2.0
+Burger Bar Fire Rescue,,,3.0
+Fire Station,,,4.0
+Downtown Fire Brigade,,,7.0
+Fire Plane,,,3.0
+Desert Rally Racer,,,1.0
+Construction Loader,,,1.0
+Garbage Truck,,,2.0
+Diving Yacht,,,2.0
+Snow Groomer,,,2.0
+Harvester Transport,,,3.0
+Satellite Service Mission,,,1.0
+Rover Testing Drive,,,2.0
+Mars Research Shuttle,,,2.0
+Lunar Space Station,,,5.0
+Deep Space Rocket and Launch Control,,,7.0
+Rocket Assembly & Transport,,,8.0
+People Pack - Space Research and Development,,,15.0
+Fire Chief Response Truck,,,2.0
+Garage Centre,,,4.0
+Donut Shop Opening,,,10.0
+People Pack - Fun Fair,,,14.0
+LEGO City Advent Calendar,,,8.0
+Straight & T-Junction ,,,
+Curves & Crossroad,,,
+Police Patrol Car,,,1.0
+Kayak Adventure,,,1.0
+Super Pack 3-in-1,,,
+Super Pack 2-in-1 ,,,
+Super Pack 2-in-1 ,,,
+Bonus/Value pack,,,
+Bonus/Value pack,,,
+2-in-1 Value Pack: Star-Lord & Gamora,,3.0,
+Super Pack 3-in-1,,,
+Super Pack 3-in-1,,,
+Super Pack 3-in-1,,,
+J.B.'s Ghost Lab,,,3.0
+Wrecked Shrimp Boat,,,4.0
+Graveyard Mystery,,,4.0
+El Fuego's Stunt Truck,,,4.0
+Shrimp Shack Attack,,,5.0
+Paranormal Intercept Bus 3000,,,5.0
+Ghost Train Express,,,6.0
+Newbury Haunted High School,,,8.0
+Spinjitzu Kai,,,1.0
+Spinjitzu Jay,,,1.0
+Spinjitzu Zane,,,1.0
+Spinjitzu Cole,,,1.0
+Spinjitzu Nya & Wu,,,2.0
+Spinjitzu Lloyd vs. Garmadon,,,2.0
+The Samurai Mech,,,3.0
+The Golden Dragon,,,3.0
+Kai's Blade Cycle & Zane's Snowmobile,,,4.0
+Jay's Storm Fighter,,,4.0
+Cole's Earth Driller ,,,4.0
+Monastery of Spinjitzu,,,8.0
+Lloyd's Journey,,,2.0
+Cole's Dirt Bike,,,3.0
+Shuricopter,,,3.0
+Fire Fang,,,4.0
+Katana 4X4,,,5.0
+Lloyd's Titan Mech,,,6.0
+Land Bounty,,,9.0
+Castle of the Forsaken Emperor,,,7.0
+The Ultra Dragon,,,6.0
+Monastery Training,,,2.0
+Spinjitzu Slam - Lloyd,,,1.0
+Spinjitzu Slam - Jay,,,1.0
+Spinjitzu Slam - Zane,,,1.0
+Spinjitzu Slam - Kai vs. Samurai,,,2.0
+LEGO Movie Maker,,,6.0
+Emmet and Benny's 'Build and Fix' Workshop!,,,2.0
+Unikitty's Sweetest Friends EVER!,,,3.0
+Emmet's Thricycle!,,,1.0
+Introducing Queen Watevra Wa'Nabi,,,4.0
+Queen Watevra's Build Whatever Box!,,,
+Rex's Rex-treme Offroader!,,,2.0
+Ultrakatty & Warrior Lucy!,,,2.0
+Pop-Up Party Bus,,,4.0
+Emmet and Lucy's Escape Buggy!,,,4.0
+Sweet Mayhem's Systar Starship!,,,3.0
+Emmet's Dream House/Rescue Rocket!,,,4.0
+Emmet's Builder Box!,,,1.0
+Lucy's Builder Box!,,,2.0
+MetalBeard's Heavy Metal Motor Trike!,,,2.0
+Rex's Rexplorer!,,,2.0
+Battle-Ready Batman and MetalBeard,,,2.0
+Shimmer & Shine Sparkle Spa!,,,8.0
+Queen Watevra's 'So-Not-Evil' Space Palace,,,5.0
+The Rexcelsior!,,,4.0
+Welcome to Apocalypseburg!,,,13.0
+Benny's Space Squad,,,5.0
+Emmet's Triple-Decker Couch Mech,,,3.0
+Good Morning Sparkle Babies!,,,4.0
+Systar Party Crew,,,2.0
+Wyld-Mayhem Star Fighter,,,4.0
+LEGO Minifigures - The LEGO Movie 2 Series {Random bag},,,
+Awesome Remix Emmet,,,1.0
+Battle-Ready Lucy,,,1.0
+Apocalypse Benny,,,1.0
+Giraffe Guy,,,1.0
+Crayon Girl,,,1.0
+Sherry Scratchen-Post & Scarfield,,,1.0
+Hula Lula,,,1.0
+Watermelon Dude,,,1.0
+Flashback Lucy,,,1.0
+Swamp Creature,,,1.0
+Candy Rapper,,,1.0
+Gone Golfin' President Business,,,1.0
+Apocalypseburg Abe,,,1.0
+Vest Friend Rex,,,1.0
+Kitty Pop,,,1.0
+Dorothy Gale & Toto,,,1.0
+Cowardly Lion,,,1.0
+Scarecrow,,,1.0
+Tin Man,,,1.0
+Unikitty,,,1.0
+LEGO Minifigures - The LEGO Movie 2 Series - Complete,,,20.0
+LEGO Minifigures - The LEGO Movie 2 Series - Sealed Box,,,
+LEGO Minifigures - Disney Series 2 {Random bag},,,
+Vintage Mickey,,,1.0
+Vintage Minnie,,,1.0
+Huey Duck,,,1.0
+Dewey Duck,,,1.0
+Louie Duck,,,1.0
+Scrooge McDuck,,,1.0
+Chip,,,1.0
+Dale,,,1.0
+Elsa,,,1.0
+Anna,,,1.0
+Jafar,,,1.0
+Jasmine,,,1.0
+Hades,,,1.0
+Hercules,,,1.0
+Sally,,,1.0
+Jack Skellington,,,1.0
+Edna Mode,,,1.0
+Frozone,,,1.0
+LEGO Minifigures - Disney Series 2 - Complete,,,18.0
+LEGO Minifigures - Disney Series 2 - Sealed Box,,,
+LEGO Minifigures - Series 19 {Random Bag},,,
+Video Game Champ,,,1.0
+Shower Guy,,,1.0
+Fright Knight,,,1.0
+Monkey King,,,1.0
+Programmer,,,1.0
+Mummy Queen,,,1.0
+Jungle Explorer,,,1.0
+Fire Fighter,,,1.0
+Dog Sitter,,,1.0
+Pizza Costume Guy,,,1.0
+Galactic Bounty Hunter,,,1.0
+Gardener,,,1.0
+Rugby Player,,,1.0
+Fox Costume Girl,,,1.0
+Bear Costume Guy,,,1.0
+Mountain Biker,,,1.0
+LEGO Minifigures - Series 19 - Complete,,,16.0
+LEGO Minifigures - Series 19 - Sealed Box,,,
+Disney Train and Station,,,5.0
+Naboo Starfighter Microfighter,,,1.0
+Sith Infiltrator Microfighter,,,1.0
+Elite Praetorian Guard Battle Pack,,,5.0
+Inferno Squad Battle Pack,,,4.0
+Darth Vader Bust,,,
+Escape Pod vs. Dewback Microfighters,,,3.0
+Death Star Escape,,,4.0
+Kylo Ren & Sith Trooper,,,
+Droid Gunship,,,4.0
+AT-AP Walker,,,5.0
+X-wing Starfighter Trench Run,,,3.0
+Duel on Starkiller Base,,,2.0
+TIE Fighter Attack,,,2.0
+Action Battle Endor Assault,,,2.0
+Action Battle Hoth Generator Attack,,,2.0
+Major Vonreg's TIE Fighter,,,4.0
+Action Battle Echo Base Defense,,,6.0
+Black Ace TIE Interceptor,,,3.0
+Slave I - 20th Anniversary Edition,,,5.0
+Tantive IV,,,6.0
+LEGO Star Wars Advent Calendar,,,9.0
+Death Star Cannon,,,2.0
+Rebel A-wing Starfighter,,,2.0
+Resistance A-wing Starfighter,,,2.0
+Resistance Y-wing Starfighter,,,5.0
+Pasaana Speeder Chase,,,4.0
+Darth Vader's Castle,,,6.0
+Imperial Star Destroyer,,,2.0
+Droid Commander,,,
+AT-ST Raider,,,4.0
+Yoda,,,1.0
+Kylo Ren's Shuttle,,,6.0
+Millennium Falcon,,,7.0
+Anakin's Podracer – 20th Anniversary Edition,,,3.0
+Snowspeeder – 20th Anniversary Edition,,,4.0
+Clone Scout Walker – 20th Anniversary Edition,,,5.0
+Imperial Dropship – 20th Anniversary Edition,,,5.0
+Mini Boost Droid Commander,,,3.0
+The Upside Down,,,8.0
+Ferrari F40 Competizione,,,1.0
+Chevrolet Camaro ZL1 Race Car,,,1.0
+McLaren Senna,,,1.0
+2018 Dodge Challenger SRT Demon and 1970 Dodge Charger R/T,,,3.0
+1967 Mini Cooper S Rally and 2018 MINI John Cooper Works Buggy,,,4.0
+1974 Porsche 911 Turbo 3.0,,,1.0
+Dilophosaurus on the Loose,,,3.0
+Baryonyx Face-Off: The Treasure Hunt,,,4.0
+Jurassic Park: T. rex Rampage,,,6.0
+Triceratops Rampage,,,4.0
+T. rex vs Dino-Mech Battle,,,4.0
+Expecto Patronum,,,4.0
+Hungarian Horntail Triwizard Challenge,,,4.0
+Hagrid's Hut: Buckbeak's Rescue,,,6.0
+Hogwarts Clock Tower,,,8.0
+The Knight Bus,,,3.0
+Beauxbatons' Carriage: Arrival at Hogwarts ,,,4.0
+LEGO Harry Potter Advent Calendar,,,8.0
+The Rise of Voldemort,,,6.0
+Tracer vs. Widowmaker,,,2.0
+Hanzo vs. Genji,,,3.0
+Dorado Showdown,,,3.0
+D.Va & Reinhardt,,,2.0
+Bastion,,,
+Watchpoint: Gibraltar,,,4.0
+Wrecking Ball,,,1.0
+Junkrat & Roadhog,,,2.0
+Spider-Man Bike Rescue,,,3.0
+Spider-Man's Spider Crawler,,,4.0
+Spider Mech vs. Venom,,,4.0
+Batman Batsub and the Underwater Clash,,,3.0
+Batman Mech vs. Poison Ivy Mech ,,,4.0
+Mr. Freeze Batcycle Battle,,,3.0
+Batmobile: Pursuit of The Joker,,,2.0
+Batwing and The Riddler Heist,,,4.0
+Batcave Clayface Invasion,,,6.0
+Captain America: Outriders Attack,,,4.0
+War Machine Buster,,,4.0
+Iron Man Hall of Armor,,,6.0
+Avengers Ultimate Quinjet,,,6.0
+Captain Marvel and The Skrull Attack,,,3.0
+Molten Man Battle,,,3.0
+Hydro-Man Attack,,,4.0
+Stark Jet and the Drone Attack,,,4.0
+Avengers Compound Battle,,,7.0
+Spider-Man Car Chase,,,2.0
+Spider-Man: Doc Ock Diamond Heist,,,3.0
+Batman vs. The Riddler Robbery,,,2.0
+Batman and The Joker Escape,,,4.0
+1989 Batmobile,,,3.0
+Avengers Hulk Helicopter Rescue,,,5.0
+Sith Trooper Bust,,,
+Captain Marvel and the Asis,,,2.0
+The Dark Knight of Gotham City,,,1.0
+Chinese New Year's Eve Dinner,,,6.0
+Dragon Dance,,,5.0
+Dragon Boat Race,,,15.0
+Koi,,,
+Shark Skin,,,
+Splash Koi Skin,,,
+Ink Koi Skin,,,
+Boost Hub,,,
+Colour & Distance Sensor,,,
+Medium Linear Motor,,,
+Train Motor,,,
+Garmadon,,,1.0
+Garmadon,,,1.0
+Wu,,,1.0
+Wu,,,1.0
+Kai vs. Wyplash,,,2.0
+Kai vs. Wyplash,,,2.0
+Jay Vs. Lasha,,,2.0
+Jay vs. Lasha,,,2.0
+Baby Raptor,,,
+Owen with Baby Raptor,,,1.0
+Batman with Batarang,,,1.0
+Robin,,,1.0
+Superman,,,1.0
+The Flash,,,1.0
+Joker,,,1.0
+Batman,,,1.0
+Show Jump,,,
+Emmet with Tools,,,1.0
+Rex with Jetpack,,,1.0
+Emma's Kitty Chico,,,
+Shop with Costumes,,,
+Sweet Baby,,,1.0
+Bear's Cave,,,
+Andrea's Booth with Waffles,,,
+Robot on paddleboard,,,1.0
+Ice Cream Parlour,,,
+Andrea's Stage,,,
+Stephanie's Puppy Dash,,,
+Halloween Store,,,
+Olivia's Bakery,,,
+Jack,,,1.0
+Possessed Pizza Delivery Man,,,1.0
+Parker,,,1.0
+TLM2 Accessory Set 2019,,,4.0
+Oni Battle Pack,,,3.0
+Emmet Key Chain,,,
+Lucy Key Chain,,,
+Emmet's Construction Worker Vest,,,
+Batarang,,,
+Flail,,,
+Emmet Mask,,,
+Lucy Hair,,,
+Emmet Pod,,,1.0
+Sweet Mayhem's Disco Pod,,,1.0
+TLM2 Tumbler with Straw,,,
+TLM2 Hydration Bottle,,,
+TLM2 Notebook,,,
+Emmet Plush,,,
+Lucy Plush,,,
+Friends Creative Bag Charms,,,
+Stephanie Key Chain,,,
+Olivia Key Chain,,,
+Friends Phone Cover,,,
+Friends Tumbler with Straw,,,
+Cookie Cutters,,,
+LEGO Friends Ceramic Mug,,,
+LEGO Friends Hair Accessory Set,,,
+Jay Keyring,,,
+Nya Keyring,,,
+Lloyd's Kendo Training Pod,,,1.0
+4 4x4 Magnets,,,
+NINJAGO Tumbler with Straw,,,
+Creative Bag Charm,,,
+Brick Suit Guy Key Chain,,,
+Cactus Boy Key Chain,,,
+Elephant Girl Key Chain,,,
+LEGO Greeting Card,,,1.0
+LEGO Toy Soldier Ornament,,,
+Drinking cup,,,
+LEGO® Minifigure Ceramic Mug,,,
+LEGO Brick Ice Cube Tray,,,
+Ice Lollipop Tray,,,
+LEGO Key Hanger,,,
+London Bus Magnet,,,
+4 4x4 Magnets,,,
+Creative Stationery Set,,,
+City Firefighter Key Chain,,,
+City Police Vest,,,
+LEGO DUPLO Tableware,,,
+Brick Stickers,,,
+Creative Rings,,,
+Stormtrooper Keyring,,,
+Luke Skywalker Key Chain,,,
+Princess Leia Key Chain,,,
+Kylo Ren Key Chain,,,
+Spider Man Key Chain,,,
+Batman Key Chain,,,
+Superman Key Chain,,,
+Batwoman Key Chain,,,
+Ariel Key Chain,,,
+Aurora Key Chain,,,
+Creeper Key Chain,,,
+Chicken Skater Pod,,,1.0
+2x6 Key Chain,,,
+TLM2 Stop Sign Shield,,,
+Wooden Minifigure,,,
+"Wooden Minifigure, Colette Mon Amour Edition",,,
+Elsa Key Chain,,,
+Anna Key Chain,,,
+Olaf Key Chain,,,
+Minifigure Factory Box,,,
+Young Wu,,,1.0
+Jay,,,1.0
+Heavy Metal,,,1.0
+Iron Baron,,,1.0
+Lloyd,,,1.0
+Daddy No Legs,,,1.0
+Nya,,,1.0
+Blizzard Samurai,,,1.0
+Cole,,,1.0
+Pyro Whipper,,,1.0
+Kai,,,1.0
+Blizzard Samurai,,,1.0
+Zane,,,1.0
+Jay,,,1.0
+Luke Skywalker,,,1.0
+Resistance Bomber,,,
+Slave I,,,
+U-wing,,,
+IG-88,,,1.0
+AT-M6,,,
+Millennium Falcon,,,
+B-wing,,,
+First Order Stormtrooper ,,,1.0
+Jedi Interceptor,,,
+First Order SF TIE Fighter,,,
+Kylo Ren's TIE Silencer,,,
+Police Officer and Jet,,,1.0
+Fireman,,,1.0
+Lawnmower,,,1.0
+Police Officer with Jetpack,,,1.0
+Gyrocopter,,,1.0
+Diver,,,1.0
+Police Buggy,,,1.0
+Astronaut,,,2.0
+Pizza Delivery Biker,,,1.0
+Traffic Cop,,,1.0
+Space Buggy,,,1.0
+Lumberjack,,,1.0
+FIRST Competitions Medal,,,
+Spike Prime Marketing Kit,,,
+BOOMTOWN BUILD Discover More,,,
+Butterfly,,,
+LEGO System House,,,
+LEGO Play Day polybag,,,5.0
+Christmas X-wing,,,3.0
+Reusable Bag,,,
+Yoda Minifigure Link Watch,,,
+2x4 Red Luggage Tag,,,
+2x4 Blue Luggage Tag,,,
+LEGO Pencils 6 pack,,,
+Building a Dream - The Story of the LEGO House,,,
+Emma Buildable Watch,,,
+Boy Luggage Tag,,,
+Storage Bag,,,
+Emmet Alarm Clock,,,
+Wyldstyle Alarm Clock,,,
+Emmet Minifigure Link Watch,,,
+Unikitty Buildable Watch with Figure Link,,,
+Wyldstyle Minifigure Link Watch,,,
+Hot Dog Guy Key Light,,,
+Banana Guy Key Light,,,
+Batman Luggage Tag,,,
+Emmet Luggage Tag,,,
+Sweet Mayhem Luggage Tag,,,
+Unikitty Luggage Tag,,,
+Unikitty Night Light,,,
+THE LEGO MOVIE 2 Sticker Roll,,,
+Batman Key Light,,,
+Emmet Key Light,,,
+Unikitty Key Light,,,
+Boy NiteLite,,,
+Girl NiteLite,,,
+Unikitty Torch,,,
+Bag Tag,,,
+Lunch Set Iconic Girl,,,
+The LEGO Movie 2 Awesome Trading Cards,,,
+The LEGO Movie 2 Awesome Collector Album,,,
+Holographic Brick Backpack,,,
+Boba Fett Bag Tag,,,
+Darth Vader Bag Tag,,,
+R2 D2 Bag Tag,,,
+Yoda Bag Tag,,,
+Exclusive LEGO Ford Mustang Key Chain,,,
+20th Anniversary Darth Vader Brick Clock,,,
+20th Anniversary Darth Vader Link Watch,,,
+Stormtrooper Bag Tag,,,
+Emmet Clip,,,
+Unikitty Clip,,,
+LEGO Star Wars Notebook with Gel Pen,,,
+Sweet Mayhem Clip,,,
+Benny Clip,,,
+Emmet Minifigure Plush,,,
+Unikitty Plush,,,
+Captain Marvel Black & White Art Print,,,
+Captain Marvel Art Print,,,
+Avengers: Endgame art print,,,
+Avengers: Endgame Black & White Art Print,,,
+Spider-Man: Far From Home Art Print,,,
+Spider-Man: Far From Home Black & White Art Print,,,
+THE LEGO MOVIE 2: The Second Part (Blu-ray + DVD),,,
+20th Anniversary Star Wars Poster,,,
+Star Wars 20th anniversary art print,,,
+Minifigure Notebook,,,
+Lloyd Luggage Tag,,,
+Mechanical Pencil,,,
+2x4 Brick Luggage Tag,,,
+"Red, Bright Blue and Yellow Wall Hanger Set",,,
+NASA Apollo 11 Lunar Lander Patch,,,
+Reversible Canvas Tote Bag ,,,
+Minifigure Belight Backpack,,,
+Friends Belight Backpack,,,
+NINJAGO Belight Backpack,,,
+NINJAGO Pencil Roll,,,
+Friends Pencil Roll,,,
+Minifigure Pencil Roll,,,
+Teen Minifigure Backpack,,,
+Minifigure Drawstring Bag,,,
+Kindergarten Backpack,,,
+Minifigure Lunch Box,,,
+NINJAGO Lunch Box,,,
+Stranger Things Sketchbook,,,
+Stranger Things Poster,,,
+Back to School Pack,,,
+Belgian Patent for LEGO Elements 1958,,,
+"1st Edition Elephant Water Colour Print, Circa 1937",,,
+"1st Edition of Wooden Duck Print, 1958",,,
+Toy Hen and Chicks Art Print,,,
+Australian Patent LEGO Minifigure 1977,,,
+Japanese Patent LEGO Duplo Brick 1968 Art Print,,,
+VIP Gifting Set,,,
+Picnic Blanket,,,
+LEGO Lunchbox,,,
+LEGO Batman Deluxe Costume,,,
+Santa Bag Tag,,,
+Holiday Bag Tag R2 D2,,,
+Holiday Bag Tag Chewbacca,,,
+Holiday Bag Tag Darth Vader,,,
+Holiday Bag Tag Yoda,,,
+Brick Friday 2019 Minifigure,,,1.0
+Brick Friday 2019 Brick,,,
+LEGO Masters Shopping Bag,,,
+Chewbacca Plush,,,
+Lion Dance,,,
+Piglet,,,
+Spring,,,
+Summer,,,
+Autumn,,,
+Winter,,,
+Reindeer ornament,,,
+Snowman ornament,,,
+Santa ornament,,,
+Christmas tree ornament,,,
+Surfer Van,,,1.0
+Buildable 2x4 Red Brick,,,
+Buildable 2x4 Red Brick,,,
+Windmill,,,
+Amsterdam BrickHeadz,,,
+Tantive IV,,,
+Summer Sailboat,,,
+100 Stores minifigure,,,1.0
+Arendelle Castle,,,
+Beijing BrickHeadz,,,
+Minifigure box,,,
+Löwenstein Castle,,,3.0
+Antique Fire Engine,,,
+Skyline Express,,,6.0
+Wild West Saloon,,,
+Isle of Peril,,,
+Eight Studs,,,2.0
+Science Tower,,,2.0
+The LEGO Story,,,4.0
+Imagine it! Build it!,,,2.0
+Hot Shot Carnival ,,,3.0
+Vintage Roadster,,,
+Bikes!,,,2.0
+Steampunk Mini Chess,,,
+Blocks magazine issue 52,,,
+Blocks magazine issue 53,,,
+Blocks magazine issue 54,,,
+Blocks magazine issue 55,,,
+Blocks magazine issue 56,,,
+Blocks magazine issue 57,,,
+Blocks magazine issue 58,,,
+Blocks magazine issue 59,,,
+Blocks magazine issue 60,,,
+Blocks magazine issue 61,,,
+Blocks magazine issue 62,,,
+Blocks magazine issue 63,,,
+Brick Fanatics magazine issue 3,,,
+Brick Fanatics magazine issue 4,,,
+Brick Fanatics magazine issue 5,,,
+Brick Fanatics magazine issue 6,,,
+Brick Fanatics magazine issue 7,,,
+Brick Fanatics magazine issue 8,,,
+Brick Fanatics magazine issue 9,,,
+Brick Fanatics magazine issue 10,,,
+Brick Fanatics magazine issue 11,,,
+Brick Fanatics magazine issue 12,,,
+BrickJournal Issue 55,,,
+BrickJournal Issue 56,,,
+BrickJournal Issue 57,,,
+BrickJournal Issue 58,,,
+BrickJournal Issue 59,,,
+BrickJournal Issue 60,,,
+Mini Captain Marvel Ship,,,
+Cologne BrickHeadz,,,
+Cool Car,,,
+Dragon,,,
+Easter Chick,,,
+Elephant,,,
+Mini Emmet's Dream House/Rescue Rocket,,,
+Flower,,,
+Ganymede,,,
+Mini Harley Davidson,,,
+"LEGO Star Wars: Visual Dictionary, New Edition",,,1.0
+Star Wars Build Your Own Adventure: Galactic Missions,,,1.0
+Amazing Vehicles,,,
+Harry Potter Build Your Own Adventure,,,
+"LEGO NINJAGO: Visual Dictionary, New Edition",,,1.0
+Christmas Ideas,,,
+"LEGO Star Wars: Visual Dictionary, Anniversary Edition",,,1.0
+Harry Potter The Magical Guide to the Wizarding World,,,
+Build Yourself Happy: The Joy of LEGO play,,,
+"Lego Action Vehicles: Police Helicopter, Fire Truck, Ambulance, and More",,,
+"Expanding the LEGO Winter Village, Volume 2",,,
+Building LEGO BrickHeadz Heroes - Volume One: The Unofficial Guide,,,
+Building LEGO BrickHeadz Villains- Volume One: The Unofficial Guide ,,,
+Expanding the LEGO Winter Village,,,
+Building Tales with Syd and Friends,,,
+New York City Brick by Brick,,,
+The Book of Bedtime Builds,,,
+Build It! Wild West,,,
+Build It! Monsters,,,
+Build a LEGO Mustang,,,
+Amazing LEGO Creations from Space with Bricks You Already Have,,,
+The LEGO Castle Book: Build Your Own Mini Medieval World,,,
+Knight Bus,,,
+Luke Skywalker,,,
+Olaf Box,,,
+Panda,,,
+Pig,,,
+Rat,,,
+Wally,,,
+Zebra Batman,,,
+Barb,,,1.0
+PS4 Spider-Man,,,1.0
+Golden Snitch,,,
+Castle Byers,,,
+Stormbreaker,,,
+Tantive IV,,,
+Tree in the Woods,,,
+X-wing Trench Run,,,
+Mini X-wing Fighter,,,
